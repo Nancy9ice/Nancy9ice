@@ -12,17 +12,17 @@ Confused about anything data? Then my writing, speaking, and storytelling skills
 
 - **Microsoft Excel**
 
--**SQL**
+- **SQL**
 
--**PowerBI**
+- **PowerBI**
 
--**Python**
+- **Python**
 
--**SPSS**
+- **SPSS**
 
--**Microsoft PowerPoint**
+- **Microsoft PowerPoint**
 
--**Amazon RedShift**
+- **Amazon RedShift**
 
 ## Interests
 
@@ -49,5 +49,3 @@ Confused about anything data? Then my writing, speaking, and storytelling skills
 - [Medium](https://medium.com/@amandinancy16)
 
 - Email: amandinancy16@gmail.com
-
-![Profile Image](https://github.com/Nancy9ice/profile-image.jpg)
