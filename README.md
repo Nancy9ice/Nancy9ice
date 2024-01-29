@@ -2,7 +2,7 @@ Hello there 👋, Welcome to my space!
 
 Let me tell you a little about me, shall I?
 
-I'm Nancy Amandi, 📈a data analyst, data storyteller, and 🧑‍💻data technical writer.
+I'm Nancy Amandi, an analytics engineer, 📈a data analyst, data storyteller, and 🧑‍💻data technical writer.
 
 I'm passionate about helping businesses solve their problems by making informed decisions influenced by data. I also love breaking down complex concepts using written language. 
 
@@ -24,6 +24,12 @@ Confused about anything data? Then my writing, speaking, and storytelling skills
 
 - **Amazon RedShift**
 
+- **Google BigQuery**
+
+- **Microsoft Fabric**
+
+- **dbt**
+
 ## Interests
 
 - 🌱 Exploring new technologies and tools.
@@ -34,9 +40,9 @@ Confused about anything data? Then my writing, speaking, and storytelling skills
 
 ## Fun Facts
 
-- 📖 I love reading non-fiction books especially data and finance books. 
+- 📖 I love reading non-fiction books, especially data and finance books. 
 
-- 🧑‍🏫 My favorite book is 'Effective Data Storytelling' by Brent Dykes.
+- 🧑‍🏫 My favourite book is 'Effective Data Storytelling' by Brent Dykes.
 
 - 👩‍👧‍👧 My mom and sister mean the world to me.
 
