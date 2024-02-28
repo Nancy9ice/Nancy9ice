@@ -10,25 +10,19 @@ Confused about anything data? Then my writing, speaking, and storytelling skills
 
 ## Skills
 
-- **Microsoft Excel**
+- **Programming Language:** Python, SQL
 
-- **SQL**
+- **ETL/ELT:** Airbyte, Azure databricks, Apache Spark, dbt
 
-- **PowerBI**
+- **Analytics tools:** Tableau, PowerBI, Microsoft Excel
 
-- **Python**
+- **Cloud Tools:** Microsoft Fabric, Amazon Redshift, Google BigQuery
 
 - **SPSS**
 
 - **Microsoft PowerPoint**
 
-- **Amazon RedShift**
-
-- **Google BigQuery**
-
-- **Microsoft Fabric**
-
-- **dbt**
+- **Postgres**
 
 ## Interests
 
