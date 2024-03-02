@@ -2,27 +2,17 @@ Hello there 👋, Welcome to my space!
 
 Let me tell you a little about me, shall I?
 
-I'm Nancy Amandi, an analytics engineer, 📈a data analyst, data storyteller, and 🧑‍💻data technical writer.
+I'm Nancy Amandi, a data and analytics engineer.
 
-I'm passionate about helping businesses solve their problems by making informed decisions influenced by data. I also love breaking down complex concepts using written language. 
+I'm passionate about helping businesses solve their problems by making provisions for these businesses to be data-driven. I also love breaking down complex concepts using written language. 
 
 Confused about anything data? Then my writing, speaking, and storytelling skills will clarify you on any issue regarding your business data or any data technical concept. 
 
-## Skills
+## Tech Stack👨‍💻:
 
-- **Programming Language:** Python, SQL
+**Modern Data Stack:** Airbyte/Fivetran, dbt, Databricks, Amazon Redshift/Google BigQuery/Microsoft Fabric/Posgres, Tableau/PowerBI
 
-- **ETL/ELT:** Airbyte, Azure databricks, Apache Spark, dbt
-
-- **Analytics tools:** Tableau, PowerBI, Microsoft Excel
-
-- **Cloud Tools:** Microsoft Fabric, Amazon Redshift, Google BigQuery
-
-- **SPSS**
-
-- **Microsoft PowerPoint**
-
-- **Postgres**
+**General:** Python, SQL, Apache Spark, Git
 
 ## Interests
 
