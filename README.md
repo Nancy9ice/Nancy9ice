@@ -2,7 +2,7 @@ Hello there 👋, Welcome to my space!
 
 Let me tell you a little about me, shall I?
 
-I'm Nancy Amandi, a data and analytics engineer.
+I'm Nancy Amandi, a data and analytics engineer, and a technical writer.
 
 I'm passionate about helping businesses solve their problems by making provisions for these businesses to be data-driven. I also love breaking down complex concepts using written language. 
 
