@@ -96,10 +96,4 @@ Blog | Medium
 - [Data Storytelling: The Way to Stakeholders’ Hearts (Part 1)](https://medium.com/@amandinancy16/data-storytelling-the-way-to-stakeholders-hearts-part-1-fbfd0a308ad0)
 <!-- MEDIUM:END -->
 
-
-## &#x1f4c8; GitHub Stats
-
-![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nancy9ice&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nancy9ice&layout=compact&theme=tokyonight)](https://github.com/Nancy9ice)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=Nancy9ice)
