@@ -30,11 +30,6 @@ Blog | Medium
 
 😄 Pronouns: she/her
 
-
-[![Nancy’s github stats](https://github-readme-stats.vercel.app/api?username=Nancy9ice)](https://github.com/yushi1007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nancy9ice&layout=compact)](https://github.com/yushi1007)
-
 ### Technical Skills
 
 💾 Databases
@@ -104,7 +99,7 @@ Blog | Medium
 
 ## &#x1f4c8; GitHub Stats
 
-![Ayoseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nancy9ice&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nancy9ice&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nancy9ice&layout=compact&theme=tokyonight)](https://github.com/Nancy9ice)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Nancy9ice)
